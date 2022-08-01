@@ -25,3 +25,4 @@ then type git clone [copied link]
 
 ![image](https://user-images.githubusercontent.com/110176257/182134872-1d2a4bd3-f730-4df6-9fc5-02444fe69dee.png)
 
+for more information on setting up repositories from localhost (without selecting readme file when making on github) you can use my [other guide](https://github.com/maikszusevics/git_setup)
